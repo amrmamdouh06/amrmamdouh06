@@ -1,5 +1,5 @@
 # 💫 About Me:
-                    Amr Mamdouh | Full-Stack |  Web Developer      
+                       Amr Mamdouh |  Web Developer      
                  CS Student @ Faculty of Computers and Information
 
 
